@@ -11,8 +11,9 @@ Designed to support global public health initiatives by providing real-time visu
 - 📊 Aggregates open-source health data and research findings into an accessible platform for researchers and advocates worldwide.
 
 ---
-
-*This project was developed as part of a public health innovation initiative.*  
+* Due to the size of the project a google drive link is provided for download purposes (51MB): https://drive.google.com/drive/u/0/folders/1cOb3gu9f7YFngFNI8_9C-DNT927hnRSv
+  
+*Note: This dashboard is available for academic and public health outreach purposes only.* 
 *For more information or collaboration inquiries, please contact via GitHub (@arma99).*
 
 ---
